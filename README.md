@@ -10,10 +10,10 @@ Thrill.io is a social bookmarking web application created from Udemy course: Jav
 
 
 
-Getting Started
+# Getting Started
 Install Eclipse IDE
 
 git clone https://github.com/VagTsop/thrillio-io.git
 
-Acknowledgments
+# Acknowledgments
 Dheeru Mundluru
